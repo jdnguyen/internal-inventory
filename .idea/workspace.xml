@@ -101,7 +101,7 @@
       <file leaf-file-name="spree.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/initializers/spree.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="37" selection-start="423" selection-end="423" vertical-scroll-proportion="0.19417475">
+            <state line="8" column="0" selection-start="386" selection-end="386" vertical-scroll-proportion="0.19417475">
               <folding />
             </state>
           </provider>
@@ -843,7 +843,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/spree.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="37" selection-start="423" selection-end="423" vertical-scroll-proportion="0.19417475">
+        <state line="8" column="0" selection-start="386" selection-end="386" vertical-scroll-proportion="0.19417475">
           <folding />
         </state>
       </provider>
