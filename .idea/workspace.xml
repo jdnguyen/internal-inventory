@@ -5,7 +5,7 @@
     <ignored path="internal_tool.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Gemfile" changelist="91144f01-6df9-4c3f-b7d0-cedfbe113ecf" time="1405998477399" ignored="false" />
-    <file path="/production.rb" changelist="91144f01-6df9-4c3f-b7d0-cedfbe113ecf" time="1406000584947" ignored="false" />
+    <file path="/production.rb" changelist="91144f01-6df9-4c3f-b7d0-cedfbe113ecf" time="1406001785664" ignored="false" />
     <file path="/spree.rb" changelist="91144f01-6df9-4c3f-b7d0-cedfbe113ecf" time="1406001465146" ignored="false" />
     <file path="/a.dummy" changelist="91144f01-6df9-4c3f-b7d0-cedfbe113ecf" time="1406001221665" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -90,19 +90,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="production.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="35" selection-start="1042" selection-end="1042" vertical-scroll-proportion="0.0">
+            <state line="22" column="36" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.5339806">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spree.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="spree.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/initializers/spree.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="33" selection-start="58" selection-end="58" vertical-scroll-proportion="0.024271844">
+            <state line="1" column="33" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -132,8 +132,8 @@
         <option value="$PROJECT_DIR$/bin/rake" />
         <option value="$PROJECT_DIR$/Gemfile.lock" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/config/initializers/spree.rb" />
+        <option value="$PROJECT_DIR$/config/environments/production.rb" />
       </list>
     </option>
   </component>
@@ -848,13 +848,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="35" selection-start="1042" selection-end="1042" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -864,7 +857,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/spree.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="33" selection-start="58" selection-end="58" vertical-scroll-proportion="0.024271844">
+        <state line="1" column="33" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="36" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.5339806">
           <folding />
         </state>
       </provider>
